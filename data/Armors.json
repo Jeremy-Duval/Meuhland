@@ -32,5 +32,6 @@ null,
 {"id":30,"atypeId":2,"description":"Un bonne armure en tissu.\nDestiné aux jeunes magicien.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Armure magique de contrebande","note":"","params":[0,0,0,5,0,15,0,0],"price":25},
 {"id":31,"atypeId":5,"description":"Ne vous protégez pas avec, on donne \nça aux recures pour l'entrainement !","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"Bouclier de contrebande","note":"","params":[0,0,0,12,0,4,0,0],"price":25},
 {"id":32,"atypeId":1,"description":"Pour avoir le vrai style \nd'un contrebandier !","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":144,"name":"Brassard du contrebandier","note":"","params":[-10,-10,5,5,-5,-5,10,10],"price":20},
-{"id":33,"atypeId":1,"description":"","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":146,"name":"Collier de cristal","note":"","params":[0,0,0,-10,5,5,0,5],"price":150}
+{"id":33,"atypeId":1,"description":"","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":146,"name":"Collier de cristal","note":"","params":[0,0,0,-10,5,5,0,5],"price":150},
+{"id":34,"atypeId":1,"description":"Un collier destinés aux\nplus grand !","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":146,"name":"Collier royal","note":"","params":[5,0,5,5,0,5,2,2],"price":200}
 ]
