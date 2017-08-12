@@ -81,10 +81,10 @@ null,
 {"id":79,"expanded":false,"name":"Auberge","order":79,"parentId":76,"scrollX":720,"scrollY":406.6666666666667},
 {"id":80,"expanded":true,"name":"Mer d'Ial (Fôret d'Ishenval)","order":80,"parentId":0,"scrollX":1568,"scrollY":1172},
 {"id":81,"expanded":false,"name":"Grotte sous-marine","order":81,"parentId":80,"scrollX":798,"scrollY":502.5},
-{"id":82,"expanded":false,"name":"Temple De Shukaïzïn (Entrée)","order":82,"parentId":80,"scrollX":798,"scrollY":822},
-{"id":83,"expanded":true,"name":"Bibliothèque D'Oliryam (Entrée)","order":83,"parentId":80,"scrollX":798,"scrollY":1045.5},
-{"id":84,"expanded":false,"name":"Auberge","order":84,"parentId":83,"scrollX":832,"scrollY":640},
+{"id":82,"expanded":false,"name":"Temple De Shukaïzïn (Entrée)","order":82,"parentId":80,"scrollX":709.3333333333334,"scrollY":681.3333333333334},
+{"id":83,"expanded":true,"name":"Bibliothèque D'Oliryam (Entrée)","order":83,"parentId":80,"scrollX":709.3333333333334,"scrollY":1086.6666666666667},
+{"id":84,"expanded":false,"name":"Auberge","order":84,"parentId":83,"scrollX":720,"scrollY":406.6666666666667},
 {"id":85,"expanded":false,"name":"Boutique Objets","order":85,"parentId":83,"scrollX":832,"scrollY":640},
 {"id":86,"expanded":false,"name":"Boutique Stuff","order":86,"parentId":83,"scrollX":832,"scrollY":640},
-{"id":87,"expanded":false,"name":"Bibliothèque D'Oliryam (RDC)","order":87,"parentId":83,"scrollX":798,"scrollY":1072.5}
+{"id":87,"expanded":false,"name":"Bibliothèque D'Oliryam (RDC)","order":87,"parentId":83,"scrollX":757.3333333333334,"scrollY":1062.6666666666667}
 ]
