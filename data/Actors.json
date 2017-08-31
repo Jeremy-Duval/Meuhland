@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"battlerName":"Jeremheu","characterIndex":0,"characterName":"Jeremheu","classId":1,"equips":[40,41,0,36,0],"faceIndex":0,"faceName":"Jeremheu","traits":[],"initialLevel":30,"maxLevel":99,"name":"Jérémheu","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Mheuliann","characterIndex":0,"characterName":"Mheuliann","classId":3,"equips":[43,1,0,40,0],"faceIndex":0,"faceName":"Mheuliann","traits":[],"initialLevel":30,"maxLevel":99,"name":"Mheuliann","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Mheutin","characterIndex":0,"characterName":"Mheutin","classId":2,"equips":[38,0,0,38,0],"faceIndex":0,"faceName":"Mheutin","traits":[],"initialLevel":30,"maxLevel":99,"name":"Mheutin","nickname":"","note":"","profile":""},
-{"id":4,"battlerName":"Mheullyne","characterIndex":0,"characterName":"Mheullyne","classId":4,"equips":[44,0,0,40,0],"faceIndex":0,"faceName":"Mheullyne","traits":[],"initialLevel":30,"maxLevel":99,"name":"Mheullyne","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"Jeremheu","characterIndex":0,"characterName":"Jeremheu","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Jeremheu","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jérémheu","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Mheuliann","characterIndex":0,"characterName":"Mheuliann","classId":3,"equips":[0,1,0,0,0],"faceIndex":0,"faceName":"Mheuliann","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mheuliann","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Mheutin","characterIndex":0,"characterName":"Mheutin","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Mheutin","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mheutin","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Mheullyne","characterIndex":0,"characterName":"Mheullyne","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Mheullyne","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mheullyne","nickname":"","note":"","profile":""}
 ]
