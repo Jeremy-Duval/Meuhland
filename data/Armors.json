@@ -57,5 +57,6 @@ null,
 {"id":55,"atypeId":2,"description":"Une armure avec un oeil dessus \npour faire peur !","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Armure de fanatique","note":"","params":[0,0,0,10,0,22,0,0],"price":85},
 {"id":56,"atypeId":5,"description":"Bouclier de petite taille mais efficace !","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"Bouclier de gobelin","note":"","params":[0,0,0,20,0,7,0,0],"price":85},
 {"id":57,"atypeId":6,"description":"Bouclier imposant qui peut aussi servir\nde table pour manger après la bataille.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":129,"name":"Bouclier d'ogre","note":"","params":[0,0,0,23,0,10,0,0],"price":100},
-{"id":58,"atypeId":1,"description":"Vous protège du poison \net des langues de vipères !","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":4,"value":1}],"iconIndex":145,"name":"Bague antipoison","note":"","params":[0,0,0,0,0,0,0,0],"price":100}
+{"id":58,"atypeId":1,"description":"Vous protège du poison \net des langues de vipères !","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0},{"code":14,"dataId":4,"value":1}],"iconIndex":145,"name":"Bague antipoison","note":"","params":[0,0,0,0,0,0,0,0],"price":100},
+{"id":59,"atypeId":2,"description":"Un collier frabriqué spécialement \npour les magiciens !","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":146,"name":"Collier Magique","note":"","params":[0,0,0,0,10,10,0,0],"price":100}
 ]
