@@ -1,6 +1,6 @@
-RPG Maker
-Ce logiciel a été créé à l'aide du logiciel RPG Maker.
-En cas d'opposition de cette licence avec toutes licences ou droits impliqué par l'utilisation de RPG Maker : respecter ces derniers. 
+RPG Maker MV
+Ce logiciel a été créé à l'aide du logiciel RPG Maker MV.
+En cas d'opposition de cette licence avec toutes licences ou droits impliqué par l'utilisation de RPG Maker MV : respecter ces derniers. 
 
 Licence Creative Commons
 Meuhland et tous les fichiers associés ainsi que tous les médias de ce dépot Github depuis sa date de création sont mis à disposition selon les termes de la licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International.
